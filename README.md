@@ -3,7 +3,6 @@
 This repository contains my libvirt VM configurations and scripts designed to streamline virtual machine deployment and management on Arch Linux.
 
 My setup is:
-- ARCH 
 - **CPU**: AMD 7950x3d
 - **GPU1**: NVIDIA 4080 Super Founders Edition
 - **GPU2**: NVIDIA A2000
